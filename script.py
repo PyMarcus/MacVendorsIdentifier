@@ -28,6 +28,6 @@ def scanner(packet):
             print('-' * 30)
 
 if __name__ == '__main__':
-    #sniffer()
+    # sniffer()
     sniffer()
-    find_mac("ec:c0:1b:9c:77:e0")
+    #  find_mac("ec:c0:1b:9c:77:e0")
